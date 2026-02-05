@@ -1,62 +1,21 @@
-# DUGGANI VENKATA SAI TEJAA
+# Hi, I'm duggani venkata sai teja 👋
+
 Backend developer
 
-saodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfna
+Passionate and detail-oriented Backend Developer with hands-on experience in Java, RESTful APIs, and relational databases like SQL and MySQL. Strong foundation in OOP and DSA, enabling efficient and clean code. Recently started exploring AI to broaden my skills. Actively seeking a backend or full stack developer role where I can contribute, learn, and grow with the team.
+
+## 💼 Experience
+- **asdfsadfsdfasd** at sadfasdfsdf (Feb 2026 - Present)
 
 ## 🛠 Skills
-- Express.js
-- Java
-- C#
-- .NET
-- REST APIs
-- API Design
 - React
 - Vue.js
 - Angular
-- CSS3
-- HTML5
 - TypeScript
-- Tailwind CSS
-- Next.js
-- Python
-- Node.js
-- Spring Boot
-- MySQL
-- PostgreSQL
-- Oracle
-- Redis
-- Firebase
+- HTML5
 
-## 💼 Experience
-### ASDFSADF | ASDFSAD
-*Jan 2026 - Present*
-ASDFAS
-- **Tech**: ASDFSADFS
-
-
-## 📦 Projects
-### [ecommerce website ]()
-askdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdf
-- **Tech Stack**: knskda, sdfadsf, asdfadsf
-### [ADSasd](aSDasdAS)
-asd
-- **Tech Stack**: asdasd
-
-## 🎓 Education
-- **cbnvcbn**, cvbncvbn (2025)
-- **asdfasd**, ASDad (2026)
-
-## 📜 Certifications
-- [gxdf](54455) - dghdsfg (2025)
-- [SADFSDF](SDFSADFSADF) - SDFSDAF (2026)
-
-## 🏆 Achievements
-- **2025**: skdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsaklskdfnsakl (232343)
-- **23023**: askdnkas (232)
-- **SADFSADF**: ASDFASDFASDF (2006)
-
-## 🌐 Connect
-- [Github](linkedin.com&#x2F;in&#x2F;chinni-devisreea)
-- [Linkedin](linkedin.com&#x2F;in&#x2F;chinni-devisreea)
-- [Twitter](zxcvzcxa)
-- [Website](https:&#x2F;&#x2F;freelancing.saitejaduggani.com&#x2F;project&#x2F;pet-adoption)
+## 🔗 Connect with me
+- [Github](https:&#x2F;&#x2F;www.libreoffice.org&#x2F;donate&#x2F;dl&#x2F;win-x86_64&#x2F;25.8.4&#x2F;en-US&#x2F;LibreOffice_25.8.4_Win_x86-64.msi)
+- [Linkedin](https:&#x2F;&#x2F;www.libreoffice.org&#x2F;donate&#x2F;dl&#x2F;win-x86_64&#x2F;25.8.4&#x2F;en-US&#x2F;LibreOffice_25.8.4_Win_x86-64.msi)
+- [Twitter](https:&#x2F;&#x2F;www.libreoffice.org&#x2F;donate&#x2F;dl&#x2F;win-x86_64&#x2F;25.8.4&#x2F;en-US&#x2F;LibreOffice_25.8.4_Win_x86-64.msi)
+- [Website](https:&#x2F;&#x2F;www.libreoffice.org&#x2F;donate&#x2F;dl&#x2F;win-x86_64&#x2F;25.8.4&#x2F;en-US&#x2F;LibreOffice_25.8.4_Win_x86-64.msi)
