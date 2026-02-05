@@ -1,18 +1,17 @@
-# 🎓 DUGGANI VENKATA SAI TEJAA
+# DUGGANI VENKATA SAI TEJAA
 
-### Backend developer
+saodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfna
 
-I am a student passionate about technology and software development.
+## 📈 My GitHub Stats
 
-## 🏫 Education
-### cvbncvbn
-- **Degree**: cbnvcbn
-- **Year**: 2025
-### ASDad
-- **Degree**: asdfasd
-- **Year**: 2026
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dvs-teja&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvs-teja&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
 
-## 📚 Currently Learning
+<br />
+
+## 🛠 Skills
 - Express.js
 - Java
 - C#
@@ -36,15 +35,10 @@ I am a student passionate about technology and software development.
 - Redis
 - Firebase
 
-## 💻 Projects
-### ecommerce website 
-askdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdf
-- [View Project]()
-### ADSasd
-asd
-- [View Project](aSDasdAS)
+## 💼 Experience
+- **ASDFSADF** @ ASDFSAD
 
-## 📫 Contact
+## 🤝 Connect
 - [Github](linkedin.com&#x2F;in&#x2F;chinni-devisreea)
 - [Linkedin](linkedin.com&#x2F;in&#x2F;chinni-devisreea)
 - [Twitter](zxcvzcxa)
