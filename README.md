@@ -1,17 +1,14 @@
-# DUGGANI VENKATA SAI TEJAA
+# > DUGGANI VENKATA SAI TEJAA
 
-saodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfna
+> Backend developer
+>
+> saodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfna
 
-## 📈 My GitHub Stats
+```bash
+$ whoami
+DUGGANI VENKATA SAI TEJAA
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvs-teja&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvs-teja&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br />
-
-## 🛠 Skills
+$ skills
 - Express.js
 - Java
 - C#
@@ -35,11 +32,13 @@ saodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsaodfnasknmsao
 - Redis
 - Firebase
 
-## 💼 Experience
-- **ASDFSADF** @ ASDFSAD
+$ projects
+- ecommerce website : askdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdfaskdnaskdf
+- ADSasd: asd
 
-## 🤝 Connect
-- [Github](linkedin.com&#x2F;in&#x2F;chinni-devisreea)
-- [Linkedin](linkedin.com&#x2F;in&#x2F;chinni-devisreea)
-- [Twitter](zxcvzcxa)
-- [Website](https:&#x2F;&#x2F;freelancing.saitejaduggani.com&#x2F;project&#x2F;pet-adoption)
+$ contact
+- Github: linkedin.com&#x2F;in&#x2F;chinni-devisreea
+- Linkedin: linkedin.com&#x2F;in&#x2F;chinni-devisreea
+- Twitter: zxcvzcxa
+- Website: https:&#x2F;&#x2F;freelancing.saitejaduggani.com&#x2F;project&#x2F;pet-adoption
+```
