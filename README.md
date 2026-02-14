@@ -1,6 +1,6 @@
 # Hi, I'm duggani venkata sai teja 👋
 
-Backend developer
+Backend developerzxcvzxcv
 
 Passionate and detail-oriented Backend Developer with hands-on experience in Java, RESTful APIs, and relational databases like SQL and MySQL. Strong foundation in OOP and DSA, enabling efficient and clean code. Recently started exploring AI to broaden my skills. Actively seeking a backend or full stack developer role where I can contribute, learn, and grow with the team.
 
