@@ -1,21 +1,16 @@
-# Hi, I'm duggani venkata sai teja 👋
+# asdfadsf
 
-Backend developerzxcvzxcv
+sdfasdfsadfsadfsdfsadf
 
-Passionate and detail-oriented Backend Developer with hands-on experience in Java, RESTful APIs, and relational databases like SQL and MySQL. Strong foundation in OOP and DSA, enabling efficient and clean code. Recently started exploring AI to broaden my skills. Actively seeking a backend or full stack developer role where I can contribute, learn, and grow with the team.
+## 📈 My GitHub Stats
 
-## 💼 Experience
-- **asdfsadfsdfasd** at sadfasdfsdf (Feb 2026 - Present)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dvs-teja&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvs-teja&amp;layout=compact&amp;theme=radical&amp;hide_border=true" height="150" alt="languages graph" />
+</div>
 
-## 🛠 Skills
-- React
-- Vue.js
-- Angular
-- TypeScript
-- HTML5
+<br />
 
-## 🔗 Connect with me
-- [Github](https:&#x2F;&#x2F;www.libreoffice.org&#x2F;donate&#x2F;dl&#x2F;win-x86_64&#x2F;25.8.4&#x2F;en-US&#x2F;LibreOffice_25.8.4_Win_x86-64.msi)
-- [Linkedin](https:&#x2F;&#x2F;www.libreoffice.org&#x2F;donate&#x2F;dl&#x2F;win-x86_64&#x2F;25.8.4&#x2F;en-US&#x2F;LibreOffice_25.8.4_Win_x86-64.msi)
-- [Twitter](https:&#x2F;&#x2F;www.libreoffice.org&#x2F;donate&#x2F;dl&#x2F;win-x86_64&#x2F;25.8.4&#x2F;en-US&#x2F;LibreOffice_25.8.4_Win_x86-64.msi)
-- [Website](https:&#x2F;&#x2F;www.libreoffice.org&#x2F;donate&#x2F;dl&#x2F;win-x86_64&#x2F;25.8.4&#x2F;en-US&#x2F;LibreOffice_25.8.4_Win_x86-64.msi)
+
+
+## 🤝 Connect
